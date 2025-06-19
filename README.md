@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @karimib
-- 👀 I’m interested in Testing, Security, Infrastructure and Software Engineering
+- 👀 I’m interested in Security & AI
 - 🌱 I’m currently studying Computer Science
 
 <!---
